@@ -4,11 +4,11 @@ import './Nav.css'
 
 
 function Nav() {
-
+	
     const history = useHistory();
     const [show, handleshow] = useState(false)
     const transitionNavbar =()=>{
-        
+        //scroll to change the black
         if(window.scrollY > 100){
             handleshow(true)
         }else{
