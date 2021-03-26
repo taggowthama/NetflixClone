@@ -18,7 +18,7 @@ function LoginScreen() {
                {signIn? (
                <SignUpScreen /> ):(
                    <>
-                    <h1>Unlimited films, TV Programmes and more.</h1>
+                    <h1>EUnlimited films, TV Programmes and more.</h1>
             <h2>Watch Anywhere. Cancel at any time.</h2>
             <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
             
